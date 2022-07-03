@@ -13,6 +13,16 @@ entries:
     version: 0.1.0
   sample:
   - apiVersion: v2
+    appVersion: 1.16.8
+    created: "2022-07-03T16:29:11.421152114Z"
+    description: A Helm chart for Kubernetes
+    digest: 264f07a2c9d513278645a547472563e9577ad1408b4854e13a9947da4b61b8d6
+    name: sample
+    type: application
+    urls:
+    - https://github.com/ustundagsemih/helm-charts/releases/download/sample-0.1.8/sample-0.1.8.tgz
+    version: 0.1.8
+  - apiVersion: v2
     appVersion: 1.16.7
     created: "2022-07-03T16:23:25.357108917Z"
     description: A Helm chart for Kubernetes
