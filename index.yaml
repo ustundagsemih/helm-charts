@@ -112,4 +112,15 @@ entries:
     urls:
     - https://github.com/ustundagsemih/helm-charts/releases/download/sample-0.1.0/sample-0.1.0.tgz
     version: 0.1.0
+  spring-application:
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2022-07-03T17:49:26.706109493Z"
+    description: A Helm chart for Kubernetes
+    digest: bf6b27e15888420c21e3bb5a82324233b4ffbf4181e6cc1ad258133e03421ecd
+    name: spring-application
+    type: application
+    urls:
+    - https://github.com/ustundagsemih/helm-charts/releases/download/spring-application-0.1.1/spring-application-0.1.1.tgz
+    version: 0.1.1
 generated: "2022-07-03T13:16:55.755560468Z"
